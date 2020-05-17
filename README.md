@@ -1,5 +1,5 @@
 # GCD-wrapper
-Obj-C Grand Central Dispatch convenient wrapper
+convenient Obj-C Grand Central Dispatch wrapper inspired by https://github.com/nghialv/GCD
 
 ### Main queue usage:
 
